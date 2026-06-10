@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-I am a 20-year-old **Electrical Engineering Undergraduate** who is deeply passionate about bridging hardware, signals, and intelligent algorithms. My primary focus lies within **Data Science, Machine Learning, and Deep Learning**. 
+I am a 21-year-old **Electrical Engineering Undergraduate** who is deeply passionate about bridging hardware, signals, and intelligent algorithms. My primary focus lies within **Data Science, Machine Learning, and Deep Learning**. 
 
 * 🎓 **Academic Path:** Undergraduate Student in Electrical Engineering.
 * 🗣️ **Language:** Fluent in English (fully ready to work with global engineering & research teams).
