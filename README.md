@@ -1,52 +1,62 @@
-<!-- ANIMATED NEON WAVE BANNER -->
+<!-- PREMIUM MINIMALIST HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30&height=250&section=header&text=Javad%20Momeni&fontSize=60&animation=twinkle&desc=Electrical%20Engineering%20|%20Data%20Science&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=sliced&color=1e293b&height=180&section=header&text=Javad%20Momeni&fontSize=50&fontColor=ffffff&desc=Electrical%20Engineering%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=68&descAlign=50&descSize=16" alt="Header" />
 </p>
 
-<!-- TYPEWRITER EFFECT -->
+<!-- CORE HIGHLIGHT BADGES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Javad;Electrical+Engineering+Undergrad;Passionate+about+ML+%26+Deep+Learning;Fluent+in+English+%E2%9C%85" />
+  <img src="https://img.shields.io/badge/Focus-Deep_Learning_&_Data_Science-3b82f6?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Language-English_Fluent-10b981?style=flat-square" alt="English" />
+  <img src="https://img.shields.io/badge/Collaboration-Ready_for_Global_Projects-8b5cf6?style=flat-square" alt="Collab" />
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- CONTACT & SOCIAL CONNECTIONS -->
 <p align="center">
-  <a href="https://github.com/Javad-Momeni?tab=followers"><img src="https://img.shields.io/github/followers/Javad-Momeni?label=Followers&style=for-the-badge&color=8A2BE2" alt="Followers"></a>
-  <a href="https://github.com/Javad-Momeni?tab=stars"><img src="https://img.shields.io/github/stars/Javad-Momeni?style=for-the-badge&color=FF1493" alt="Stars"></a>
-  <a href="mailto:javadmomeni2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00FFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
-### 🧠 About Me
-
-I am a 21-year-old **Electrical Engineering Undergraduate** who is deeply passionate about bridging hardware, signals, and intelligent algorithms. My primary focus lies within **Data Science, Machine Learning, and Deep Learning**. 
-
-* 🎓 **Academic Path:** Undergraduate Student in Electrical Engineering.
-* 🗣️ **Language:** Fluent in English (fully ready to work with global engineering & research teams).
-* 🤝 **Collaboration:** I am highly motivated and ready to jump into great, large-scale collaborations with anyone working on interesting projects in the ML/DL space. Let’s build something amazing!
-
----
-
-### 🏆 GitHub Milestones & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Javad-Momeni&theme=radical&margin-w=15&margin-h=15" alt="Javad's Trophies" />
+  <a href="https://github.com/Javad-Momeni?tab=followers"><img src="https://img.shields.io/github/followers/Javad-Momeni?label=Followers&style=flat-square&color=64748b" alt="Followers"></a>
+  <a href="https://github.com/Javad-Momeni?tab=stars"><img src="https://img.shields.io/github/stars/Javad-Momeni?style=flat-square&color=64748b" alt="Stars"></a>
+  <a href="mailto:javadmomeni2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0099ff?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/javad-momeni-86b6a6357"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
-### 🛠️ My Toolbox
+### 🧠 Professional Summary
+
+I am a 20-year-old **Electrical Engineering Undergraduate** deeply passionate about bridging classical engineering principles with advanced artificial intelligence. My current academic and technical pursuits focus heavily on **Data Science, Machine Learning, and Deep Learning**.
+
+Equipped with professional fluency in English, I am actively seeking high-impact, international research collaborations, open-source initiatives, and collaborative project development within the ML/DL domain.
+
+---
+
+### 🛠️ Technical Expertise
+
+To maintain a clean and structured presentation, my skills are categorized below:
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Math** | `Python` `MATLAB` |
+| **Machine Learning & DL** | `PyTorch` `Scikit-Learn` `TensorFlow` |
+| **Developer Tools** | `Git` `VS Code` `GitHub` |
+
+---
+
+### 📈 GitHub Analytics & Repository Metrics
+
+Our metrics below automatically track my activity and project contributions in real time, styled in a cohesive Indigo/Dark theme:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,git,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Javad-Momeni&show_icons=true&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=10b981&text_color=94a3b8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javad-Momeni&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6&text_color=94a3b8" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javad-Momeni&theme=tokyonight&hide_border=true&stroke=3b82f6&ring=10b981&fire=8b5cf6&currPlay=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 Performance & Language Analytics (Radical Theme)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javad-Momeni&show_icons=true&theme=radical&hide_border=true" alt="Javad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javad-Momeni&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+### 📬 Let's Connect & Collaborate
+I am always open to discussing new research ideas, technical challenges, or potential collaborations. 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Javad-Momeni&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+* 📧 **Email:** [javadmomeni2006@gmail.com](mailto:javadmomeni2006@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/javad-momeni-86b6a6357](https://www.linkedin.com/in/javad-momeni-86b6a6357)
