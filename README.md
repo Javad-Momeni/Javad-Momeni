@@ -26,7 +26,7 @@ I am a 20-year-old **Electrical Engineering Undergraduate** with a strong passio
 Here are some of the technologies, tools, and languages I use:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,c,cpp,git,docker,linux,latex,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,git,vscode,Tensorflow," />
 </p>
 
 ---
