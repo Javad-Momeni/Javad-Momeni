@@ -1,6 +1,6 @@
 <!-- ANIMATED NEON WAVE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30&height=250&section=header&text=Javad%20Momeni&fontSize=60&animation=twinkle&desc=Electrical%20Engineering%20|%20Deep%20Learning&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30&height=250&section=header&text=Javad%20Momeni&fontSize=60&animation=twinkle&desc=Electrical%20Engineering%20|%20Data%20Science&descAlignY=65&descAlign=50" />
 </p>
 
 <!-- TYPEWRITER EFFECT -->
@@ -19,7 +19,7 @@
 
 ### 🧠 About Me
 
-I am a 20-year-old **Electrical Engineering Undergraduate** who is deeply passionate about bridging hardware, signals, and intelligent algorithms. My primary focus lies within **Data Science, Machine Learning, and Deep Learning**. 
+I am a 21-year-old **Electrical Engineering Undergraduate** who is deeply passionate about bridging hardware, signals, and intelligent algorithms. My primary focus lies within **Data Science, Machine Learning, and Deep Learning**. 
 
 * 🎓 **Academic Path:** Undergraduate Student in Electrical Engineering.
 * 🗣️ **Language:** Fluent in English (fully ready to work with global engineering & research teams).
