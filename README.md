@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/Javad-Momeni?tab=followers"><img src="https://img.shields.io/github/followers/Javad-Momeni?label=Followers&style=flat-square&color=blueviolet" alt="Followers"></a>
   <a href="https://github.com/Javad-Momeni?tab=stars"><img src="https://img.shields.io/github/stars/Javad-Momeni?style=flat-square&color=ff69b4" alt="Stars"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-12a0a0?style=flat-square" alt="Email"></a>
+  <a href="mailto:javadmomeni2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-12a0a0?style=flat-square" alt="Email"></a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ I am a 20-year-old **Electrical Engineering Undergraduate** with a strong passio
 Here are some of the technologies, tools, and languages I use:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,git,vscode,Tensorflow," />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,git,vscode" />
 </p>
 
 ---
