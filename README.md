@@ -34,9 +34,9 @@ To maintain a clean and structured presentation, my skills are categorized below
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages & Math** | `Python` `MATLAB` |
+| **Languages & Math** | `Python` `C` `C++` `MATLAB` `LaTeX` |
 | **Machine Learning & DL** | `PyTorch` `Scikit-Learn` `TensorFlow` |
-| **Developer Tools** | `Git` `VS Code` `GitHub` |
+| **Developer Tools** | `Git` `Docker` `Linux (Ubuntu)` `VS Code` `GitHub` |
 
 ---
 
