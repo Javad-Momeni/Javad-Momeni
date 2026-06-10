@@ -1,6 +1,6 @@
 <!-- ANIMATED NEON WAVE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:d946ef&height=250&section=header&text=Javad%20Momeni&fontSize=60&animation=twinkle&desc=Electrical%20Engineering%20|%20Data%20Science&descAlignY=68&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:3b82f6,100:8b5cf6&height=250&section=header&text=Javad%20Momeni&fontSize=60&animation=twinkle&desc=Electrical%20Engineering%20|%20Data%20Science&descAlignY=68&descAlign=50" />
 </p>
 
 <!-- TYPEWRITER EFFECT -->
